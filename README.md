@@ -80,7 +80,3 @@ This is a very early / intentionally minimal implementation:
 
 - [Linux x86-64 syscall table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 - [Linux kernel `elf.h`](https://github.com/torvalds/linux/blob/master/include/uapi/linux/elf.h)
-
-## License
-
-No license specified yet — add one (e.g. MIT) if you'd like others to use or contribute to this freely.
